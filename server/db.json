@@ -445,25 +445,19 @@
       "firstName": "Obi-Wan",
       "lastName": "Kenobi",
       "email": "obiwan@gmail.com",
+      "avatarUrl": "https://www.gravatar.com/avatar/64b7554e1263a8af450f6a01314c00c1?d=identicon",
       "jobTitle": "Jedi Master",
       "twitter": "obiwan",
-      "id": "_YsaNlO"
+      "id": "fdbhw-W"
     },
     {
-      "firstName": "Obi-Wan",
-      "lastName": "Kenobi",
-      "email": "obiwan@gmail.com",
-      "jobTitle": "Jedi Master",
-      "twitter": "obiwan",
-      "id": "C7AVvu4"
-    },
-    {
-      "firstName": "Obi-Wan",
-      "lastName": "Kenobi",
-      "email": "obiwan@gmail.com",
-      "jobTitle": "Jedi Master",
-      "twitter": "obiwan",
-      "id": "mA8SUAw"
+      "firstName": "Bruno",
+      "lastName": "Diaz",
+      "email": "bruno@email.com",
+      "avatarUrl": "https://www.gravatar.com/avatar/a6e07de535ce4e3a29658b9be0998fce?d=identicon",
+      "jobTitle": "Super Hero",
+      "twitter": "batman",
+      "id": "3ZPmOhf"
     }
   ]
 }
