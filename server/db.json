@@ -1,15 +1,6 @@
 {
   "badges": [
     {
-      "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
-      "firstName": "Freda[edited]",
-      "lastName": "Grady[edited]",
-      "email": "Leann_Berge@gmail.com",
-      "jobTitle": "Legacy Brand Director[edited]",
-      "twitter": "FredaGrady22221-7573",
-      "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
-    },
-    {
       "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
       "firstName": "Major",
       "lastName": "Rodriguez",
@@ -449,15 +440,6 @@
       "jobTitle": "Jedi Master",
       "twitter": "obiwan",
       "id": "fdbhw-W"
-    },
-    {
-      "firstName": "Bruno",
-      "lastName": "Diaz",
-      "email": "bruno@email.com",
-      "avatarUrl": "https://www.gravatar.com/avatar/a6e07de535ce4e3a29658b9be0998fce?d=identicon",
-      "jobTitle": "Super Hero",
-      "twitter": "batman",
-      "id": "3ZPmOhf"
     }
   ]
 }
